@@ -6,6 +6,7 @@ class Intro extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>Welcome to React Native!</Text>
+        <Text style={styles.welcome}>Welcome to React Native Two!</Text>
         <Text style={styles.instructions}>
           This is a React Native snapshot test.
         </Text>
